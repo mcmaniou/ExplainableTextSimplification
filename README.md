@@ -37,7 +37,7 @@ For the masking experiments, we also tried the base models, not at all trained o
 ### Project Structure
 The project has the following structure:
 - code: includes multiple scripts created for the different parts of the project, from data processing to fine-tuning models and evaluation of results.
-- data: the datasets used for this project.+
+- data: the datasets used for this project.
 
 
 

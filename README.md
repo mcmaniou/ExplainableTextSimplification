@@ -5,7 +5,7 @@ A workflow that improves the readability of complex texts, by performing lexical
 3. An algorithm that iteratively performs masking in order to change the complex parts in simpler ones.
 
 The proposed workflow is presented in the following graph:
-![Workflow](https://github.com/mcmaniou/ExplainableTextSimplification/images/workflow.png "Our workflow")
+![Workflow](https://github.com/mcmaniou/ExplainableTextSimplification/blob/main/images/workflow.png "Our workflow")
 
 
 ### Models
